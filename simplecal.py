@@ -12,7 +12,7 @@ if fno == 1:
     ans = num1 + num2
     print("\nAnswer is",ans)
 elif fno == 2:
-     print("\nSUBSTRAACTION -")
+     print("\nSUBSTRACTION -")
      num1 = int(input("\nEnter first number : "))
      num2 = int(input("Enter second number : "))
      ans = num1 - num2
